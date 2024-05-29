@@ -1,0 +1,6 @@
+# python -m venv env
+# env\Scripts\activate ---> cmd
+# source env/Scripts/activate ---> git
+# deactivate
+# _____________________________________________
+# which python ---> ဘယ်မှာ run လဲဆိုတာကိုကြည့်တယ်။
